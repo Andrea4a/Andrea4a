@@ -1,88 +1,52 @@
-# Hi there, I'm Andrea! 👋
+# Hi, I'm Andrea Rescigno 👋
 
-### Computer Engineer | Artificial Intelligence & Machine Learning
+**Computer Engineer | Artificial Intelligence | Machine Learning | Computer Vision**
 
-I'm a Computer Engineering graduate from the **University of Salerno**, specialized in **Artificial Intelligence and Intelligent Robotics**.
+I'm a Master's graduate in **Computer Engineering**, specializing in **Artificial Intelligence and Intelligent Robotics** at the University of Salerno.
 
-I'm passionate about designing and developing intelligent systems, with a particular interest in Machine Learning, Deep Learning, Computer Vision and real-world AI applications.
+I'm passionate about designing, training and evaluating intelligent systems, with a particular interest in **Deep Learning, Computer Vision, Generative AI and applied Machine Learning**.
 
-My academic journey has allowed me to work on projects involving video understanding, neural networks, autonomous systems, robotics and data analysis.
+## 🎓 Master's Thesis
 
-## 🛠️ Technical Skills
+**Accident Detection on the Road from Video-Surveillance Cameras**
 
-**Programming Languages**
-
-Python · C · C++ · Java · MATLAB
-
-**Artificial Intelligence & Machine Learning**
-
-PyTorch · Deep Learning · Machine Learning · Computer Vision · Neural Networks · Transformers
-
-**Computer Vision & Robotics**
-
-OpenCV · YOLOv8 · Object Detection · Object Tracking · ROS · CARLA Simulator
-
-**Other Technologies**
-
-Hadoop · Apache Spark · CUDA · OpenMP · MPI
+Developed and evaluated AI models for detecting road accidents in surveillance videos, exploring Vision-Language Models, CLIP-based architectures and temporal video analysis.
 
 ## 🚀 Featured Projects
 
-### 🚗 Road Accident Detection using Vision-Language Models
-*Master's Thesis*
+### 👁️ [Pedestrian Attribute Recognition & Tracking](https://github.com/Andrea4a/Artificial-Vision)
+Computer vision system for pedestrian detection, multi-object tracking, behavior analysis and attribute recognition.
 
-Developed a video-based road accident detection system by adapting the VadCLIP framework to distinguish between accident and normal traffic scenarios.
+**Technologies:** Python, YOLOv8, BoT-SORT, ConvNeXt, PyTorch
 
-- Vision-Language Models (CLIP and VadCLIP)
-- Parameter-Efficient Fine-Tuning
-- Soft Prompting and Transformer architectures
-- Video-level classification and performance evaluation
+### 🧠 [Conditional Image Generation](https://github.com/Andrea4a/Generative-AI)
+Implementation of Conditional VAEs, GANs and Diffusion Models for attribute-conditioned facial image generation.
 
-**Technologies:** Python, PyTorch, CLIP, Deep Learning
+**Technologies:** Python, PyTorch, Generative AI, DDPM
 
-### 👁️ Pedestrian Attribute Recognition
+### 🛡️ [AI for Cybersecurity](https://github.com/Andrea4a/AI-for-CyberSecurity)
+Evaluation of adversarial attacks against face recognition models and exploration of AI-based defense strategies.
 
-Developed a computer vision pipeline for pedestrian detection, tracking and attribute recognition in video sequences.
+**Technologies:** Python, PyTorch, Adversarial Machine Learning
 
-- Pedestrian detection using YOLOv8
-- Multi-object tracking using BoT-SORT
-- Pedestrian behavior analysis and line-crossing detection
-- Classification of pedestrian attributes
+### 🏓 [Reinforcement Learning for Robotic Table Tennis](https://github.com/Andrea4a/Machine-Learning)
+Training a simulated robotic arm to play table tennis using Deep Deterministic Policy Gradient (DDPG).
 
-**Technologies:** Python, YOLOv8, Computer Vision, Deep Learning
+**Technologies:** Python, PyTorch, PyBullet, Reinforcement Learning
 
-### 🚘 Autonomous Driving with CARLA
+## 🛠️ Technical Skills
 
-Developed and evaluated an autonomous driving agent in the CARLA simulation environment.
+- **Programming:** Python, Java, C, MATLAB
+- **AI & Machine Learning:** Deep Learning, Computer Vision, Generative AI, Reinforcement Learning
+- **Tools & Frameworks:** PyTorch, Git, ROS, CARLA, PyBullet
+- **Software Engineering:** Object-Oriented Programming, Software Design, Agile/Scrum
 
-- Navigation and route planning
-- Obstacle avoidance and traffic management
-- Handling pedestrians, cyclists and vehicles
-- Evaluation across different driving scenarios
+## 📂 Other Projects
 
-**Technologies:** Python, CARLA Simulator, Autonomous Systems
+- 🚗 [Autonomous Vehicle Driving](https://github.com/Andrea4a/Autonomous-Vehicle-Driving) — Intelligent driving agent developed in the CARLA simulator.
+- 🤖 [Cognitive Robotics](https://github.com/Andrea4a/Cognitive-Robotics) — Human-robot interaction combining Computer Vision and Natural Language Processing.
+- ⚙️ [Software Engineering](https://github.com/Andrea4a/softwareengineering) — Java desktop automation application developed using MVC, design patterns and Agile Scrum.
 
-### 🤖 Cognitive Robotics — Pepper Robot
+---
 
-Contributed to the development of an intelligent human-robot interaction system based on ROS.
-
-- ROS-based software architecture
-- Computer Vision and person detection
-- Natural Language Understanding with Rasa
-- Speech recognition and dialogue management
-
-**Technologies:** Python, ROS, Rasa, Computer Vision
-
-## 🎯 Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Video Understanding
-- Deep Learning & Generative AI
-- Intelligent Systems & Robotics
-- AI applications in real-world environments
-
-## 📫 Let's Connect
-
-I'm interested in opportunities involving Artificial Intelligence, Machine Learning and Computer Vision.
-
-Feel free to explore my projects and connect with me!
+*Interested in developing practical AI solutions and bringing Machine Learning models into real-world applications.*
