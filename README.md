@@ -8,7 +8,7 @@ I'm passionate about designing, training and evaluating intelligent systems, wit
 
 ## 🎓 Master's Thesis
 
-**Accident Detection on the Road from Video-Surveillance Cameras**
+[Accident Detection on the Road from Video-Surveillance Cameras](https://github.com/Andrea4a/Road-Accident-Detection)
 
 Developed and evaluated AI models for detecting road accidents in surveillance videos, exploring Vision-Language Models, CLIP-based architectures and temporal video analysis.
 
